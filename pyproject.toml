@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-sample"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = ["Ken Erwin <ken@devopslibrary.com>"]
 

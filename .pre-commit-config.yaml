@@ -25,21 +25,8 @@ repos:
         pass_filenames: false
       - id: pytest
         name: pytest
-        entry: poetry run pytest --ignore=node_modules -vv
+        entry: poetry run pytest -vv
         language: system
         types: [python]
-        always_run: true
-        pass_filenames: false
-      - id: bespinsynth
-        name: bespin synth
-        entry: poetry run bespin synth --config_path ./tests/fixtures/configs
-        language: system
-        always_run: true
-        pass_filenames: false
-      - id: cfnlint
-        name: cfn-lint
-        entry: poetry run cfn-lint cdk.out/*template.json --ignore-checks W3010 E1001
-        types: [python]
-        language: system
         always_run: true
         pass_filenames: false
