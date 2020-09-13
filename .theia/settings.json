@@ -6,5 +6,8 @@
     ],
     "editor.autoSave": "on",
     "editor.minimap.enabled": true,
-    "editor.rulers": [88]
+    "editor.rulers": [
+        88
+    ],
+    "python.pythonPath": ".venv/bin/python3"
 }
