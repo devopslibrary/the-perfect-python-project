@@ -9,6 +9,6 @@ tasks:
       poetry config virtualenvs.create false
       poetry install
 
-      echo 'source /workspace/bespin/welcome.sh' >> .venv/bin/activate
+      echo 'source entrypoint.sh' >> .venv/bin/activate
     command: |
       source .venv/bin/activate
