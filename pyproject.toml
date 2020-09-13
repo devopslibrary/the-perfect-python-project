@@ -1,11 +1,13 @@
 [tool.poetry]
 name = "python-sample"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = ["Ken Erwin <ken@devopslibrary.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pre-commit = "^2.7.1"
+black = "^20.8b1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

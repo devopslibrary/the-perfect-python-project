@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "theia-file-icons",
+    "python.autoComplete.extraPaths": [
+        ".venv/lib/python3.8/site-packages",
+        ".venv/lib64/python3.8/site-packages"
+    ],
+    "editor.autoSave": "on",
+    "editor.minimap.enabled": true,
+    "editor.rulers": [
+        88
+    ],
+    "python.pythonPath": ".venv/bin/python3"
+}
