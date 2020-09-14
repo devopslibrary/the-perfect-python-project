@@ -4,28 +4,28 @@ repos:
     hooks:
       - id: flake8
         name: flake8
-        entry: poetry run flake8 .
+        entry: flake8 .
         language: system
         types: [python]
         always_run: true
         pass_filenames: false
       - id: black
         name: black
-        entry: poetry run black .
+        entry: black .
         language: system
         types: [python]
         always_run: true
         pass_filenames: false
       - id: mypy
         name: mypy
-        entry: poetry run mypy .
+        entry: mypy .
         language: system
         types: [python]
         always_run: true
         pass_filenames: false
       - id: pytest
         name: pytest
-        entry: poetry run pytest -vv
+        entry: pytest -vv
         language: system
         types: [python]
         always_run: true
