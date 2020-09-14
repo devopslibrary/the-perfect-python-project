@@ -1,15 +1,6 @@
-<a href="https://aimeos.org/">
-    <img src="docs/logo.svg" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+<a href="https://github.com/devopslibrary/the-perfect-python-project">
+    <img src="docs/snake.png" alt="The Perfect Python Project" title="Snake" align="right" height="60" />
 </a>
-
-# The "Perfect" Python Project
-
-:star: Star us on GitHub — it helps!
-
-[Aimeos](https://aimeos.org/TYPO3) is THE professional, full-featured and
-high performance e-commerce extension for TYPO3! You can install it in your
-existing TYPO3 web site within 5 minutes and can adapt, extend, overwrite
-and customize anything to your needs.
 
 # Perfect Python Project
 
