@@ -13,8 +13,8 @@
     "files.exclude": {
         ".git": true,
         ".pytest_cache": true,
-        ".theia": true,
         ".venv": true,
-        "**/__pycache__": true
+        "**/__pycache__": true,
+        ".mypy_cache": true
     }
 }
