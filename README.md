@@ -3,11 +3,13 @@
 </a>
 
 # Perfect Python Project
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aws/aws-cdk)
+
 This project is used to demonstrate my idea of a perfect Python project
 configuration. Nearly everthing I've chosen can be bikeshedded for hours or
 days, but feel free to submit a PR if you can back up your suggestions with
 evidence. 😊
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/devopslibrary/the-perfect-python-project)
 
 [![Bikeshedding](docs/bikeshed.jpg)](https://en.wiktionary.org/wiki/bikeshedding)
 
