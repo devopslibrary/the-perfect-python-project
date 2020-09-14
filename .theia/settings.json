@@ -9,5 +9,13 @@
     "editor.rulers": [
         88
     ],
-    "python.pythonPath": ".venv/bin/python3"
+    "python.pythonPath": ".venv/bin/python3",
+    "files.exclude": {
+        ".git": true,
+        ".pytest_cache": true,
+        ".venv": true,
+        "**/__pycache__": true,
+        ".mypy_cache": true,
+        "*.egg-info": true
+    }
 }
