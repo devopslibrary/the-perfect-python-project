@@ -1,3 +1,13 @@
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+    pullRequestsFromForks: true
+    addComment: true
+    addBadge: false
+    addLabel: prebuilt-in-gitpod
+
 image:
   file: Dockerfile
 
