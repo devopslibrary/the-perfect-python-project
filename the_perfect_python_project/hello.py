@@ -2,7 +2,7 @@ from loguru import logger
 
 
 def main():
-    logger.debug("Hello!")
+    logger.debug("Hello Everyone!")
 
 
 if __name__ == "__main__":
