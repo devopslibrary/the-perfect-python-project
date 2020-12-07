@@ -5,7 +5,7 @@
 # Perfect Python Project
 
 This project is used to demonstrate my idea of a perfect Python project
-configuration. Nearly everthing I've chosen can be bikeshedded for hours or
+configuration. Nearly everything I've chosen can be bikeshedded for hours or
 days, but feel free to submit a PR if you can back up your suggestions with
 evidence. 😊
 
