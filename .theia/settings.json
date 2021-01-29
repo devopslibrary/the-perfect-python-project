@@ -9,7 +9,6 @@
     "editor.rulers": [
         88
     ],
-    "python.pythonPath": ".venv/bin/python3",
     "files.exclude": {
         ".git": true,
         ".pytest_cache": true,
