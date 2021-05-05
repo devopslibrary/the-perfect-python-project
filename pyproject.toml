@@ -7,7 +7,7 @@ authors = ["Ken Erwin <ken@devopslibrary.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 loguru = "^0.5.2"
-pytest = "^5.2"
+pytest = "^6.2"
 pre-commit = "^2.7.1"
 black = "^20.8b1"
 mypy = "^0.782"
