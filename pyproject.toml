@@ -10,7 +10,7 @@ loguru = "^0.5.2"
 pytest = "^5.2"
 pre-commit = "^2.7.1"
 black = "^20.8b1"
-mypy = "^0.782"
+mypy = "^0.902"
 flake8 = "^3.8.3"
 
 [tool.poetry.scripts]
